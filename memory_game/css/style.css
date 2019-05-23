@@ -6,7 +6,12 @@ h1 {
     font-size: 45px;
     margin: 0;
 }
-
+button {
+    font-family: "Raleway", sans-serif;
+    padding: 15px;
+    margin-top: 30px;
+    font-size: 40px;
+}
 a{
     font-family: "Raleway";
     color: #F15B31;
@@ -80,7 +85,9 @@ footer{
     font-family: "Raleway";
     float: right;
 }
-
+#score{
+    font-size: 20px;
+}
 .clearfix:after{
     visibility: hidden;
     display: block;
